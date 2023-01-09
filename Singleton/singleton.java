@@ -1,5 +1,7 @@
 package Singleton;
 
+/* example of singleton pattern */
+
 public class Singleton {
   private static Singleton instance;
 
