@@ -1,5 +1,8 @@
 package CommandPattern;
 
+/**
+ * think ab threads executing commands
+ */
 public class RemoteControlTest {
   public static void main(String[] args) {
     SimpleRemoteControl remote = new SimpleRemoteControl();
