@@ -7,5 +7,8 @@ public class MainAdapter {
 
         // gobble will be called
         turkeyAdapter.quack();
+
+        House<String> house = new House<>("5a");
+        house.printNumber();
     }
 }
